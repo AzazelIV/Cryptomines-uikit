@@ -120,18 +120,18 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/cashcowprotocol",
+        href: "https://t.me/CryptominespaceX",
       },
       {
         label: "English",
-        href: "https://t.me/cashcowprotocol",
+        href: "https://t.me/CryptominespaceX",
       },
     ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/CashCowProtocol",
+    href: "https://twitter.com/Cryptominespace",
   },
   {
     label: "Telegram",

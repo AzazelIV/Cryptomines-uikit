@@ -2219,7 +2219,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/CashCowProtocol",
+        href: "https://twitter.com/Cryptominespace",
     },
 
     {
@@ -2228,11 +2228,11 @@ var socials = [
         items: [
           {
             label: "English",
-            href: "https://t.me/cashcowprotocol",
+            href: "https://t.me/CryptominespaceX",
           },
           {
             label: "Spanish",
-            href: "https://t.me/cashcowprotocol_es",
+            href: "https://t.me/CryptominespaceX",
           },
         ],
       },
@@ -2240,7 +2240,7 @@ var socials = [
       {
         label: "Discord",
         icon: "DiscordIcon",
-        href: "https://discord.gg/3kFU9vCjs7",
+        href: "https://discord.gg/7z9Pgkhe",
       },
 ];
 var MENU_HEIGHT = 64;

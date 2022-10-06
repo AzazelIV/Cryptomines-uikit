@@ -124,7 +124,7 @@ export const socials = [
       },
       {
         label: "English",
-        href: "https://t.me/CryptominespaceX",
+        href: "https://t.me/CryptomineSpaceX_ESP",
       },
     ],
   },

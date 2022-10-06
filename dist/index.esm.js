@@ -2232,7 +2232,7 @@ var socials = [
           },
           {
             label: "Spanish",
-            href: "https://t.me/CryptominespaceX",
+            href: "https://t.me/CryptomineSpaceX_ESP",
           },
         ],
       },
